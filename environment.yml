@@ -56,4 +56,3 @@ dependencies:
     - skorch==0.7.0
     - tabulate==0.8.6
     - tqdm==4.43.0
-prefix: ./envs/scanem
